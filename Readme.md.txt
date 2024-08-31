@@ -1,5 +1,3 @@
 this is a sample repo
-
+Iam from bangladesh
 hello world
-I am mahfuza
-I am learning git & github
